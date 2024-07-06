@@ -11,7 +11,7 @@ coordinating work remotely on those files with others
 *A major advantage of using Git, or any other version control system, is that we can easily compare the current version of our project with previous versions and rectify errors. We can also roll back to the previous versions.
 *It is a distributed version control system so that anyone who clones our repository will have access to the entire commit history.
 
-****How does Git work?**
+**How does Git work?**?
 Git manages the different versions by maintaining a series of snapshots of the project. Whenever we want to commit or store a change permanently a new snapshot of our current version is taken and stored by Git.
 -----------------------------------------------------------------------------------------------
 
